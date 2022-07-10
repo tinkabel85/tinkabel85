@@ -10,6 +10,8 @@
 
  After ~6 years as IT recruiter I decided to learn coding myself and I love it. 
 
+ Originally from Ukraine :ukraine: , now live in Hamburg, Germany :de:.
+
 ---
 #### 🛠  Technologies and tools
 
